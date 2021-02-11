@@ -4,6 +4,7 @@ public class Vodka extends Drink{
     }
     protected Vodka() {
         this(40);
+        setCapacity(1);
     }
 
     @Override
