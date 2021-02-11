@@ -10,6 +10,7 @@ Project is created with:
 * JUnit
 * Java Collections
 * Maven
+* Log4j2
 ## Logic
 Main gets files -> {FileRunner -> FileEditor} -> {CollectionRunner -> CollectionFabric}
 ## License
