@@ -1,2 +1,2 @@
-public class FileEditor {
+public interface FileEditor {
 }
